@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+pymongo[srv]
+cloudinary
+python-multipart
+fastapi-mail
+tzdata
+yt-dlp
+pytz
+bcrypt
+
+
+
